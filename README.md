@@ -18,4 +18,3 @@ PLAN DE MISE EN ŒUVRE :
 - Ensuite, le programme vérifiera si le joueur 1 avec "X" gagne ou le joueur 2 avec "O" gagne
 - Si aucun des joueurs ne gagne, le programme vérifiera s'il y a égalité.
 - ils ont le droit de Rejouer/Quitter - le jeu 
-- 
